@@ -6,11 +6,13 @@
         <entry key="..\:/Users/bihic/AndroidStudioProjects/GoWalk_v_final2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.12" />
         <entry key="..\:/Users/bihic/AndroidStudioProjects/GoWalk_v_final2/app/src/main/res/drawable/bottom_nav_selector.xml" value="0.1" />
         <entry key="..\:/Users/bihic/AndroidStudioProjects/GoWalk_v_final2/app/src/main/res/drawable/ic_run.xml" value="0.12" />
+        <entry key="..\:/Users/bihic/AndroidStudioProjects/GoWalk_v_final2/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/bihic/AndroidStudioProjects/GoWalk_v_final2/app/src/main/res/layout/fragment_run.xml" value="0.10052083333333334" />
         <entry key="..\:/Users/bihic/AndroidStudioProjects/GoWalk_v_final2/app/src/main/res/layout/fragment_settings.xml" value="0.10052083333333334" />
         <entry key="..\:/Users/bihic/AndroidStudioProjects/GoWalk_v_final2/app/src/main/res/layout/fragment_setup.xml" value="0.10052083333333334" />
         <entry key="..\:/Users/bihic/AndroidStudioProjects/GoWalk_v_final2/app/src/main/res/layout/fragment_statistics.xml" value="0.10052083333333334" />
         <entry key="..\:/Users/bihic/AndroidStudioProjects/GoWalk_v_final2/app/src/main/res/layout/fragment_tracking.xml" value="0.10052083333333334" />
+        <entry key="..\:/Users/bihic/AndroidStudioProjects/GoWalk_v_final2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2234375" />
       </map>
     </option>
   </component>
