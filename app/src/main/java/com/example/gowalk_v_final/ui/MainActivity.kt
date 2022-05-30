@@ -1,8 +1,8 @@
-package com.example.gowalk_v_final
+package com.example.gowalk_v_final.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
+import com.example.gowalk_v_final.R
 import com.example.gowalk_v_final.db.RunDAO
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        Log.d("runDao", "RunDao: ${runDAO.hashCode()}")
+
     }
 
 
